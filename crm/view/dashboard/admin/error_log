@@ -1,0 +1,72 @@
+[22-Oct-2024 09:20:49 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'swaratravels_crm.office_expense_master' doesn't exist in /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php:85
+Stack trace:
+#0 /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php(85): mysqli_query()
+#1 /home/swaratravels/public_html/crm/view/dashboard/admin/monthly_expense_and_revenue.php(16): mysqlQuery()
+#2 {main}
+  thrown in /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php on line 85
+[22-Oct-2024 09:48:02 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'swaratravels_crm.office_expense_master' doesn't exist in /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php:85
+Stack trace:
+#0 /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php(85): mysqli_query()
+#1 /home/swaratravels/public_html/crm/view/dashboard/admin/monthly_expense_and_revenue.php(16): mysqlQuery()
+#2 {main}
+  thrown in /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php on line 85
+[22-Oct-2024 10:24:59 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'swaratravels_crm.office_expense_master' doesn't exist in /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php:85
+Stack trace:
+#0 /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php(85): mysqli_query()
+#1 /home/swaratravels/public_html/crm/view/dashboard/admin/monthly_expense_and_revenue.php(16): mysqlQuery()
+#2 {main}
+  thrown in /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php on line 85
+[23-Oct-2024 14:40:18 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'swaratravels_crm.office_expense_master' doesn't exist in /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php:85
+Stack trace:
+#0 /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php(85): mysqli_query()
+#1 /home/swaratravels/public_html/crm/view/dashboard/admin/monthly_expense_and_revenue.php(16): mysqlQuery()
+#2 {main}
+  thrown in /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php on line 85
+[23-Oct-2024 16:13:02 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'swaratravels_crm.office_expense_master' doesn't exist in /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php:85
+Stack trace:
+#0 /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php(85): mysqli_query()
+#1 /home/swaratravels/public_html/crm/view/dashboard/admin/monthly_expense_and_revenue.php(16): mysqlQuery()
+#2 {main}
+  thrown in /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php on line 85
+[23-Oct-2024 16:17:16 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'swaratravels_crm.office_expense_master' doesn't exist in /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php:85
+Stack trace:
+#0 /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php(85): mysqli_query()
+#1 /home/swaratravels/public_html/crm/view/dashboard/admin/monthly_expense_and_revenue.php(16): mysqlQuery()
+#2 {main}
+  thrown in /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php on line 85
+[24-Oct-2024 14:30:15 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'swaratravels_crm.office_expense_master' doesn't exist in /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php:85
+Stack trace:
+#0 /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php(85): mysqli_query()
+#1 /home/swaratravels/public_html/crm/view/dashboard/admin/monthly_expense_and_revenue.php(16): mysqlQuery()
+#2 {main}
+  thrown in /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php on line 85
+[24-Oct-2024 14:36:15 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'swaratravels_crm.office_expense_master' doesn't exist in /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php:85
+Stack trace:
+#0 /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php(85): mysqli_query()
+#1 /home/swaratravels/public_html/crm/view/dashboard/admin/monthly_expense_and_revenue.php(16): mysqlQuery()
+#2 {main}
+  thrown in /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php on line 85
+[24-Oct-2024 14:40:25 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'swaratravels_crm.office_expense_master' doesn't exist in /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php:85
+Stack trace:
+#0 /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php(85): mysqli_query()
+#1 /home/swaratravels/public_html/crm/view/dashboard/admin/monthly_expense_and_revenue.php(16): mysqlQuery()
+#2 {main}
+  thrown in /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php on line 85
+[24-Oct-2024 14:41:56 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'swaratravels_crm.office_expense_master' doesn't exist in /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php:85
+Stack trace:
+#0 /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php(85): mysqli_query()
+#1 /home/swaratravels/public_html/crm/view/dashboard/admin/monthly_expense_and_revenue.php(16): mysqlQuery()
+#2 {main}
+  thrown in /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php on line 85
+[24-Oct-2024 14:46:35 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'swaratravels_crm.office_expense_master' doesn't exist in /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php:85
+Stack trace:
+#0 /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php(85): mysqli_query()
+#1 /home/swaratravels/public_html/crm/view/dashboard/admin/monthly_expense_and_revenue.php(16): mysqlQuery()
+#2 {main}
+  thrown in /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php on line 85
+[24-Oct-2024 14:48:49 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'swaratravels_crm.office_expense_master' doesn't exist in /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php:85
+Stack trace:
+#0 /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php(85): mysqli_query()
+#1 /home/swaratravels/public_html/crm/view/dashboard/admin/monthly_expense_and_revenue.php(16): mysqlQuery()
+#2 {main}
+  thrown in /home/swaratravels/public_html/crm/model/app_settings/app_generic_functions.php on line 85

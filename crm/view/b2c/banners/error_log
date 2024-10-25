@@ -1,0 +1,7 @@
+[22-Oct-2024 04:19:17 UTC] PHP Warning:  mkdir(): No such file or directory in /home/swaratravels/public_html/crm/view/b2c/banners/upload_banner_img.php on line 14
+[22-Oct-2024 04:19:17 UTC] PHP Warning:  mkdir(): No such file or directory in /home/swaratravels/public_html/crm/view/b2c/banners/upload_banner_img.php on line 14
+[22-Oct-2024 04:19:17 UTC] PHP Warning:  mkdir(): No such file or directory in /home/swaratravels/public_html/crm/view/b2c/banners/upload_banner_img.php on line 14
+[22-Oct-2024 04:19:17 UTC] PHP Warning:  mkdir(): No such file or directory in /home/swaratravels/public_html/crm/view/b2c/banners/upload_banner_img.php on line 14
+[22-Oct-2024 04:19:17 UTC] PHP Warning:  mkdir(): No such file or directory in /home/swaratravels/public_html/crm/view/b2c/banners/upload_banner_img.php on line 14
+[22-Oct-2024 04:19:17 UTC] PHP Warning:  move_uploaded_file(../../../uploads//b2c_banner_images//2024//Oct//22//1729570757/banner-63.jpg): Failed to open stream: No such file or directory in /home/swaratravels/public_html/crm/view/b2c/banners/upload_banner_img.php on line 30
+[22-Oct-2024 04:19:17 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpjzw4aC' to '../../../uploads//b2c_banner_images//2024//Oct//22//1729570757/banner-63.jpg' in /home/swaratravels/public_html/crm/view/b2c/banners/upload_banner_img.php on line 30

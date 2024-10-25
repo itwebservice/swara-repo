@@ -1,0 +1,2 @@
+[24-Oct-2024 09:22:54 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo for support.itourscloud.com failed: Name or service not known in /home/swaratravels/public_html/crm/view/ticket_system/get_data.php on line 3
+[24-Oct-2024 09:22:54 UTC] PHP Warning:  file_get_contents(https://support.itourscloud.com/model/get-ticket-api.php?cid=311): Failed to open stream: php_network_getaddresses: getaddrinfo for support.itourscloud.com failed: Name or service not known in /home/swaratravels/public_html/crm/view/ticket_system/get_data.php on line 3

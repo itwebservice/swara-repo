@@ -1,0 +1,48 @@
+[22-Oct-2024 09:20:49 Asia/Kolkata] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/swaratravels/public_html/crm/view/dashboard/admin/group_tour/file_no_wise.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/swaratravels/public_html/crm/view/dashboard/admin/group_tour/file_no_wise.php on line 64
+[22-Oct-2024 09:48:02 Asia/Kolkata] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/swaratravels/public_html/crm/view/dashboard/admin/group_tour/file_no_wise.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/swaratravels/public_html/crm/view/dashboard/admin/group_tour/file_no_wise.php on line 64
+[22-Oct-2024 10:24:59 Asia/Kolkata] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/swaratravels/public_html/crm/view/dashboard/admin/group_tour/file_no_wise.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/swaratravels/public_html/crm/view/dashboard/admin/group_tour/file_no_wise.php on line 64
+[23-Oct-2024 14:40:18 Asia/Kolkata] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/swaratravels/public_html/crm/view/dashboard/admin/group_tour/file_no_wise.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/swaratravels/public_html/crm/view/dashboard/admin/group_tour/file_no_wise.php on line 64
+[23-Oct-2024 16:13:02 Asia/Kolkata] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/swaratravels/public_html/crm/view/dashboard/admin/group_tour/file_no_wise.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/swaratravels/public_html/crm/view/dashboard/admin/group_tour/file_no_wise.php on line 64
+[23-Oct-2024 16:17:16 Asia/Kolkata] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/swaratravels/public_html/crm/view/dashboard/admin/group_tour/file_no_wise.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/swaratravels/public_html/crm/view/dashboard/admin/group_tour/file_no_wise.php on line 64
+[24-Oct-2024 14:30:15 Asia/Kolkata] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/swaratravels/public_html/crm/view/dashboard/admin/group_tour/file_no_wise.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/swaratravels/public_html/crm/view/dashboard/admin/group_tour/file_no_wise.php on line 64
+[24-Oct-2024 14:36:15 Asia/Kolkata] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/swaratravels/public_html/crm/view/dashboard/admin/group_tour/file_no_wise.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/swaratravels/public_html/crm/view/dashboard/admin/group_tour/file_no_wise.php on line 64
+[24-Oct-2024 14:40:24 Asia/Kolkata] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/swaratravels/public_html/crm/view/dashboard/admin/group_tour/file_no_wise.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/swaratravels/public_html/crm/view/dashboard/admin/group_tour/file_no_wise.php on line 64
+[24-Oct-2024 14:41:56 Asia/Kolkata] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/swaratravels/public_html/crm/view/dashboard/admin/group_tour/file_no_wise.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/swaratravels/public_html/crm/view/dashboard/admin/group_tour/file_no_wise.php on line 64
+[24-Oct-2024 14:46:35 Asia/Kolkata] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/swaratravels/public_html/crm/view/dashboard/admin/group_tour/file_no_wise.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/swaratravels/public_html/crm/view/dashboard/admin/group_tour/file_no_wise.php on line 64
+[24-Oct-2024 14:48:49 Asia/Kolkata] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/swaratravels/public_html/crm/view/dashboard/admin/group_tour/file_no_wise.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/swaratravels/public_html/crm/view/dashboard/admin/group_tour/file_no_wise.php on line 64
